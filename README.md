@@ -55,6 +55,11 @@ When the script runs, it detects vehicles in the images and calculates the **opt
 0: 640x384 14 cars, 2 buses, 3 trucks, 83.5ms
 Speed: 6.0ms preprocess, 83.5ms inference, 2.0ms postprocess
 ```
+🖼️ Output Images
+    ![image](https://github.com/user-attachments/assets/9aee43eb-4f86-4335-8640-d6c89b6284a7)
+
+
+
 
 ## 🛠️ Customization
 - 🏎 **Change the YOLO model** in `config.py`:
